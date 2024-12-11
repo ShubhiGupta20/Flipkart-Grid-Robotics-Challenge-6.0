@@ -4,10 +4,11 @@ torch                   # PyTorch
 ultralytics             # YOLOv5
 Pillow                  # Image processing
 numpy                   # Array handling
-opencv-python           # OpenCV for image processing
+#opencv-python           # OpenCV for image processing
 paddleocr               # PaddleOCR for text recognition
 paddlepaddle            # Required by PaddleOCR
 pytesseract             # OCR tool
 transformers            # Hugging Face transformers for LayoutLM
 libgl1-mesa-glx
 libglib2.0-0
+opencv-python-headless
