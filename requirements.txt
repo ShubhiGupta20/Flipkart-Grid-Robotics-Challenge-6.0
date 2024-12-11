@@ -12,3 +12,4 @@ transformers            # Hugging Face transformers for LayoutLM
 libgl1-mesa-glx
 libglib2.0-0
 opencv-python-headless
+python-3.10
