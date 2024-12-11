@@ -10,3 +10,4 @@ paddlepaddle            # Required by PaddleOCR
 pytesseract             # OCR tool
 transformers            # Hugging Face transformers for LayoutLM
 libgl1-mesa-glx
+libglib2.0-0
